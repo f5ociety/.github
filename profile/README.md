@@ -3,7 +3,7 @@
 
 Если вы хотите поддержать наш проект/если у вас есть идеи/исправления, то пишите нам на почту - **fuckfucksociety@protonmail.com**
 
-[Прогресс разработки](https://github.com/orgs/f5ociety/projects/1)
+**[Прогресс разработки](https://github.com/orgs/f5ociety/projects/1)**
 
 **Fuck Society!**
 
